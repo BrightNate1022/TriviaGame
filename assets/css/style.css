@@ -1,0 +1,27 @@
+body {
+    background-image: url(image.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: -550px; 
+}
+
+.Cake {
+    position: relative;
+    background-color: gray;
+    width: 45%;
+    border-width: 7px;
+    border-style: solid;
+    border-color: black;
+    left: 4% ;
+    top: 12%;
+}
+
+form {
+    font-weight: bold;
+    color: black;
+}
+
+p {
+    color: black;
+    font-weight: bold;
+}
